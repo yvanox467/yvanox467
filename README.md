@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ishimwe Yvan
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning html,css,node js and react
 - 📫 How to reach me:
 - phone number:+250(785449793)
 - E-mail:yvanox467@gmail.com
